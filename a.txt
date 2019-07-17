@@ -2,5 +2,4 @@ Hello Git!!!
 
 hello world!!!
 
-master分支中 a.txt 文件....
-blog 分支中 a.txt 文件....
+master
